@@ -35,13 +35,12 @@ To analyze sales data of dairy products in order to:
 
 
 ## 📸 Dashboard Preview
-> ![Dairy Sales Dashboard](./dairy_dashboard.png)
+> ![dairy goods dashboard](https://github.com/user-attachments/assets/0542fb8d-504b-4a1d-a6e7-b72cddb7406e)
+
 
 
 ## 🔄 Future Enhancements
 
 - Compare sales vs returns
-
-
 ---
 
