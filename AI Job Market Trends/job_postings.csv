@@ -1,0 +1,51 @@
+job_id,title,company_id,location,posted_date,job_type,salary_lpa
+1,NLP Engineer,9,Delhi,2025-02-26,Part-time,25.2
+2,Data Scientist,3,Chennai,2025-04-19,Contract,14.0
+3,NLP Engineer,6,Bangalore,2025-01-24,Part-time,7.5
+4,Data Analyst,10,Mumbai,2025-01-12,Part-time,23.3
+5,Prompt Engineer,2,Pune,2025-03-17,Contract,24.8
+6,ML Engineer,1,Chennai,2025-02-28,Contract,39.5
+7,NLP Engineer,2,Delhi,2025-03-13,Part-time,26.9
+8,Data Analyst,3,Mumbai,2025-04-01,Internship,28.1
+9,ML Engineer,10,Chennai,2025-02-13,Internship,9.9
+10,Prompt Engineer,5,Chennai,2025-05-23,Internship,28.6
+11,Data Scientist,4,Remote,2025-01-09,Contract,18.4
+12,ML Engineer,4,Pune,2025-03-22,Internship,27.6
+13,Prompt Engineer,8,Hyderabad,2025-03-09,Internship,12.9
+14,Deep Learning Specialist,9,Mumbai,2025-05-30,Part-time,36.3
+15,Prompt Engineer,6,Hyderabad,2025-02-05,Part-time,7.3
+16,Data Scientist,2,Hyderabad,2025-02-10,Part-time,25.5
+17,Prompt Engineer,7,Pune,2025-04-30,Contract,39.0
+18,Data Scientist,2,Chennai,2025-05-18,Contract,31.7
+19,Data Analyst,2,Mumbai,2025-04-22,Internship,20.3
+20,Computer Vision Engineer,9,Remote,2025-02-15,Full-time,35.3
+21,Computer Vision Engineer,9,Pune,2025-02-20,Internship,17.5
+22,AI Researcher,9,Remote,2025-05-16,Full-time,25.6
+23,AI Product Manager,1,Bangalore,2025-04-03,Contract,12.6
+24,NLP Engineer,10,Bangalore,2025-01-22,Part-time,33.4
+25,Deep Learning Specialist,3,Hyderabad,2025-05-02,Internship,13.5
+26,LLM Engineer,7,Hyderabad,2025-05-19,Internship,29.7
+27,Prompt Engineer,6,Delhi,2025-05-13,Part-time,8.4
+28,NLP Engineer,2,Mumbai,2025-01-06,Internship,25.2
+29,Data Scientist,2,Chennai,2025-01-16,Internship,6.4
+30,Data Scientist,6,Bangalore,2025-05-12,Internship,14.0
+31,AI Product Manager,4,Pune,2025-02-03,Part-time,12.7
+32,AI Product Manager,7,Hyderabad,2025-01-25,Full-time,27.7
+33,Data Analyst,7,Delhi,2025-04-30,Full-time,28.2
+34,ML Engineer,1,Delhi,2025-03-28,Full-time,13.0
+35,NLP Engineer,9,Delhi,2025-02-05,Part-time,10.6
+36,AI Product Manager,4,Remote,2025-01-20,Part-time,33.1
+37,Deep Learning Specialist,2,Bangalore,2025-05-19,Full-time,38.9
+38,NLP Engineer,3,Delhi,2025-05-05,Part-time,11.7
+39,Prompt Engineer,1,Hyderabad,2025-04-08,Full-time,39.5
+40,Computer Vision Engineer,8,Mumbai,2025-04-19,Part-time,9.6
+41,Computer Vision Engineer,4,Bangalore,2025-05-29,Full-time,30.9
+42,Data Scientist,1,Pune,2025-05-03,Internship,6.0
+43,Deep Learning Specialist,2,Remote,2025-02-17,Full-time,25.4
+44,NLP Engineer,7,Bangalore,2025-05-26,Internship,24.8
+45,Data Scientist,10,Bangalore,2025-04-18,Contract,37.6
+46,NLP Engineer,6,Hyderabad,2025-03-09,Part-time,8.7
+47,Computer Vision Engineer,8,Mumbai,2025-01-19,Full-time,20.5
+48,LLM Engineer,2,Bangalore,2025-05-18,Internship,22.2
+49,AI Researcher,6,Bangalore,2025-03-04,Contract,14.3
+50,AI Product Manager,9,Chennai,2025-03-19,Full-time,28.0

@@ -1,0 +1,178 @@
+job_id,skill
+1,Prompt Engineering
+1,Machine Learning
+1,Deep Learning
+1,PyTorch
+2,Machine Learning
+2,OpenAI API
+3,PyTorch
+3,HuggingFace
+3,LLM
+4,OpenAI API
+4,NLP
+4,TensorFlow
+5,LangChain
+5,Pandas
+5,PyTorch
+5,Python
+6,Prompt Engineering
+6,SQL
+7,Python
+7,HuggingFace
+7,NLP
+7,Deep Learning
+8,Deep Learning
+8,OpenAI API
+8,Pandas
+8,LangChain
+9,LangChain
+9,Python
+9,Machine Learning
+9,Prompt Engineering
+9,Deep Learning
+10,NLP
+10,LLM
+11,SQL
+11,Deep Learning
+11,Python
+12,NLP
+12,Python
+12,HuggingFace
+12,TensorFlow
+13,Prompt Engineering
+13,Machine Learning
+13,NLP
+14,LLM
+14,OpenAI API
+14,Deep Learning
+14,TensorFlow
+14,Prompt Engineering
+15,SQL
+15,Python
+15,Deep Learning
+16,HuggingFace
+16,SQL
+16,Prompt Engineering
+16,TensorFlow
+17,Deep Learning
+17,OpenAI API
+17,Machine Learning
+17,SQL
+18,Pandas
+18,TensorFlow
+19,Pandas
+19,NLP
+19,PyTorch
+20,TensorFlow
+20,Python
+20,Prompt Engineering
+21,SQL
+21,NLP
+21,PyTorch
+22,HuggingFace
+22,PyTorch
+23,Prompt Engineering
+23,LangChain
+23,SQL
+23,OpenAI API
+24,Python
+24,Machine Learning
+24,PyTorch
+24,Deep Learning
+25,Python
+25,Machine Learning
+25,LLM
+25,SQL
+26,OpenAI API
+26,NLP
+26,SQL
+26,LLM
+27,SQL
+27,LLM
+28,PyTorch
+28,Python
+28,SQL
+29,LangChain
+29,HuggingFace
+30,NLP
+30,SQL
+30,Machine Learning
+31,LLM
+31,NLP
+31,Prompt Engineering
+31,Machine Learning
+32,LangChain
+32,PyTorch
+32,Prompt Engineering
+32,SQL
+33,SQL
+33,OpenAI API
+33,PyTorch
+33,LangChain
+34,TensorFlow
+34,SQL
+34,Prompt Engineering
+35,Prompt Engineering
+35,OpenAI API
+35,Deep Learning
+35,LLM
+35,PyTorch
+36,LangChain
+36,Python
+36,PyTorch
+36,Prompt Engineering
+36,TensorFlow
+37,HuggingFace
+37,LLM
+37,OpenAI API
+37,NLP
+37,Pandas
+38,Pandas
+38,Prompt Engineering
+38,TensorFlow
+38,LangChain
+38,HuggingFace
+39,Prompt Engineering
+39,Machine Learning
+39,PyTorch
+40,Machine Learning
+40,TensorFlow
+40,Prompt Engineering
+40,PyTorch
+41,HuggingFace
+41,TensorFlow
+41,Deep Learning
+42,Python
+42,TensorFlow
+43,LLM
+43,Machine Learning
+43,Pandas
+43,SQL
+43,TensorFlow
+44,Pandas
+44,SQL
+44,TensorFlow
+44,Deep Learning
+44,Python
+45,HuggingFace
+45,SQL
+46,Deep Learning
+46,OpenAI API
+46,LangChain
+47,Python
+47,LangChain
+47,TensorFlow
+47,Machine Learning
+47,Pandas
+48,HuggingFace
+48,Pandas
+48,Prompt Engineering
+49,HuggingFace
+49,Pandas
+49,LLM
+49,LangChain
+50,LangChain
+50,Pandas
+50,Deep Learning
+50,OpenAI API
+50,LLM

@@ -1,0 +1,11 @@
+company_id,company_name,sector,employee_count
+1,Google,Tech,55802
+2,Amazon,Tech,4665
+3,TCS,AI Research,4405
+4,Infosys,IT Services,12780
+5,OpenAI,IT Services,29157
+6,Zoho,IT Services,30995
+7,Microsoft,Tech,66737
+8,Wipro,Healthcare AI,79407
+9,HCL,Tech,3978
+10,NVIDIA,Healthcare AI,74063
