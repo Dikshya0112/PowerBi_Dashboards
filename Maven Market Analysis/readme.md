@@ -23,11 +23,13 @@ Analyze and visualize retail data from 1997–1998 to uncover sales trends, prod
 - Geographical maps and product segmentation
 
 ## 🖼️ Screenshots:
-> ![orders](https://github.com/user-attachments/assets/49299248-c022-4eab-9b8a-0f360c36e23b)
-> ![products](https://github.com/user-attachments/assets/34469e1e-e104-4902-a1c6-8daaa161a2ae)
->![returns](https://github.com/user-attachments/assets/b8fdfc6b-eb7b-459c-b654-2c9f4f1ba72e)
-> ![sales](https://github.com/user-attachments/assets/357e445a-cba2-40c2-9bb2-3fa660fda82f)
-> ![store](https://github.com/user-attachments/assets/fb2abd01-8df3-418c-86ad-ad12e2f6447f)
+> Sales ![sales](https://github.com/user-attachments/assets/357e445a-cba2-40c2-9bb2-3fa660fda82f)
+> Orders ![orders](https://github.com/user-attachments/assets/49299248-c022-4eab-9b8a-0f360c36e23b)
+> Products ![products](https://github.com/user-attachments/assets/34469e1e-e104-4902-a1c6-8daaa161a2ae)
+> Store ![store](https://github.com/user-attachments/assets/fb2abd01-8df3-418c-86ad-ad12e2f6447f)
+> Returns ![returns](https://github.com/user-attachments/assets/b8fdfc6b-eb7b-459c-b654-2c9f4f1ba72e)
+> Customers ![customers](https://github.com/user-attachments/assets/764684af-5b16-45f6-be19-cd1a6ad85184)
+
 
 🖥️ **Built With:**  
 Power BI, DAX, Power Query, Data Modeling
